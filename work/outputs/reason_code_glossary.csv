@@ -1,0 +1,7 @@
+reason_code,rule
+VOLATILE_DAILY_IMPRESSIONS,volatility in the top 10% of scored pages
+INTERMITTENT_VISIBILITY,active days in the bottom 10% of scored pages
+FALLING_VS_CLIENT,log_mom_rel <= -0.4
+DEEP_POSITION,average position over the last 30 days >= 30
+POSITION_SLIPPING,position worse by 3 or more versus the previous 30 days
+NO_CLICKS_LAST_30D,click-through rate of zero in the last 30 days

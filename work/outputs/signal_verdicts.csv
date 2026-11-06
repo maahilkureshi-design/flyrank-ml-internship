@@ -1,0 +1,5 @@
+signal,hypothesis,verdict,lowest_decile_rate,highest_decile_rate,overall_rate
+cv_90,more volatile pages decline more,CONFIRMED,0.025,0.226,0.102
+pos_last30,deeper positions decline more,CONFIRMED,0.092,0.184,0.102
+active_days_90,fewer active days decline more,CONFIRMED,0.246,0.068,0.102
+log_mom_rel,pages that fell most (relative to client) keep falling,MIXED,0.177,0.148,0.102

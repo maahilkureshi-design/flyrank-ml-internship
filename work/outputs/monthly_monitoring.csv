@@ -1,0 +1,9 @@
+snapshot,period,base_rate,ap_lift,lift_at_50,T1_base_rate_drift,low_skill,T2_lost_skill,weak_top,T3_weak_top
+2025-10-31,train fold,0.048,2.47,5.44,False,False,False,False,False
+2025-11-30,train fold,0.04,2.32,3.04,False,False,False,False,False
+2025-12-31,train fold,0.073,2.59,8.77,False,False,False,False,False
+2026-01-31,train fold,0.047,2.4,11.52,False,False,False,False,False
+2026-02-28,train fold,0.08,2.23,5.53,False,False,False,False,False
+2026-03-31,train fold,0.167,1.68,3.23,True,False,False,False,False
+2026-04-30,validation,0.169,1.84,2.85,True,False,False,False,False
+2026-05-31,sealed test,0.221,1.52,2.8,True,False,False,False,False
